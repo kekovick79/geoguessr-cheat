@@ -88,25 +88,21 @@ English is the default language.
 
 ## Frequently asked questions
 
-### Is GeoBoost a GeoGuessr cheat or hack?
+### What does the GeoGuessr cheat extension actually do?
 
-GeoBoost provides the result people usually mean when searching for a GeoGuessr cheat: it can reveal the exact point on supported rounds and place the pin. The product is intended for private, practice, testing and party contexts where helper tools are allowed.
+Press `G` during a supported round and GeoBoost can show the exact location, readable place name, map preview and local clues. You can then place the pin yourself or use Auto Place when helper tools are allowed in your private, practice or testing session.
 
-### Does it work in ranked or tournament play?
+### Which games and round types are supported?
 
-Ranked, tournament and public competitive modes are outside the intended and tested use of GeoBoost. Follow the rules of the game, lobby, event, school or workplace you are participating in.
+GeoBoost supports selected workflows in GeoGuessr, OpenGuessr, WorldGuessr, FreeGuessr and Geotastic. Availability depends on the current game page and round format, and game-site updates can temporarily affect detection or map controls.
 
-### Does GeoBoost work on every round?
+### What can I use for free, and what does Pro add?
 
-No. It works only when the current game, page and round format are supported. Game-site updates can temporarily affect detection or map controls.
+Free access includes 5 starter guesses and then 1 free guess per day. Pro removes that usage limit and adds Smart Zoom and Range, with 7-day, monthly and annual options.
 
-### Is this repository the extension source code?
+### Do I need an API key, scripts or the extension source code?
 
-No. This is the official public documentation and media repository for GeoBoost. The production extension is distributed through the Chrome Web Store; its proprietary source code is not published here.
-
-### Is GeoBoost affiliated with GeoGuessr?
-
-No. GeoBoost is an independent product and is not affiliated with, endorsed by or sponsored by GeoGuessr.
+No. Install the published extension from the Chrome Web Store and open a supported round. This repository contains the official public documentation and product media; the production source code is not required for installation or normal use.
 
 ## Documentation
 
