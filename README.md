@@ -127,6 +127,6 @@ GeoBoost is built and maintained by **GeoBoost Team**. Product-specific claims a
 
 ---
 
-**Current documented version:** 1.0.5 · **Last documentation review:** August 9, 2026
+**Current documented version:** 1.0.5 · **Last documentation review:** August 10, 2026
 
 GeoGuessr and related names are trademarks of their respective owners. This repository contains public product documentation and media only. All product rights are reserved by GeoBoost.
