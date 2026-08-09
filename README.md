@@ -61,7 +61,11 @@ The free tier includes five starter guesses and then one free guess per day. Pro
 ## Product preview
 
 <p align="center">
-  <img src="assets/geoboost-live-product-preview.webp" alt="GeoBoost GeoGuessr cheat extension showing the exact location, map preview and local clues beside a live round" width="100%">
+  <img src="assets/geoboost-live-location-result.webp" alt="GeoBoost GeoGuessr cheat extension showing an exact Oman location, map preview and local clues beside a live round" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/geoboost-5k-result.webp" alt="GeoGuessr 5K round result after using GeoBoost location and placement tools" width="100%">
 </p>
 
 ## Why use a browser extension?
