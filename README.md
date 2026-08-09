@@ -1,7 +1,7 @@
 # GeoGuessr Cheat Extension — GeoBoost
 
 <p align="center">
-  <img src="assets/geoboost-geoguessr-cheat-extension.png" alt="GeoBoost GeoGuessr cheat extension showing exact location, Auto Place and Smart Zoom" width="100%">
+  <img src="assets/geoboost-geoguessr-cheat-extension.webp" alt="GeoBoost GeoGuessr cheat extension showing exact location, Auto Place and Smart Zoom" width="100%">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <img alt="Chrome Manifest V3" src="https://img.shields.io/badge/Chrome-Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
 </p>
 
-**GeoBoost is a GeoGuessr cheat extension for Chrome that finds the exact location on supported geography-game rounds and can place the pin for you.** It combines exact coordinates, a map preview, readable place names, Auto Place, Smart Zoom and Range in one side panel.
+**GeoBoost is a GeoGuessr cheat extension for Chrome—often called a GeoGuessr hack—that finds the exact location on supported geography-game rounds and can place the pin for you.** It combines exact coordinates, a map preview, readable place names, Auto Place, Smart Zoom and Range in one side panel.
 
 The phrase “GeoGuessr cheat” is how many players search for this workflow. GeoBoost is built for agreed private games, practice, testing, party rounds and personal entertainment. It is not intended for ranked, tournament or public competitive play.
 
@@ -100,9 +100,9 @@ Press `G` during a supported round and GeoBoost can show the exact location, rea
 
 GeoBoost supports selected workflows in GeoGuessr, OpenGuessr, WorldGuessr, FreeGuessr and Geotastic. Availability depends on the current game page and round format, and game-site updates can temporarily affect detection or map controls.
 
-### What can I use for free, and what does Pro add?
+### Is GeoBoost a free GeoGuessr cheat extension?
 
-Free access includes 5 starter guesses and then 1 free guess per day. Pro removes that usage limit and adds Smart Zoom and Range, with 7-day, monthly and annual options.
+Yes. Free access includes 5 starter guesses and then 1 free guess per day. Pro removes that usage limit and adds Smart Zoom and Range, with 7-day, monthly and annual options.
 
 ### Do I need an API key, scripts or the extension source code?
 
