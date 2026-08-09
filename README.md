@@ -61,7 +61,7 @@ The free tier includes five starter guesses and then one free guess per day. Pro
 ## Product preview
 
 <p align="center">
-  <img src="assets/geoboost-homepage.png" alt="GeoBoost GeoGuessr cheat extension product preview with exact coordinates and Place pin button" width="100%">
+  <img src="assets/geoboost-live-product-preview.webp" alt="GeoBoost GeoGuessr cheat extension showing the exact location, map preview and local clues beside a live round" width="100%">
 </p>
 
 ## Why use a browser extension?
