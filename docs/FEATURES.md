@@ -33,5 +33,5 @@ The free path includes five starter guesses and then one free guess per day. Pro
 ## Related links
 
 - [Install GeoBoost from Chrome Web Store](https://chromewebstore.google.com/detail/geoguessr-boost-geoguessr/offeainbmjpcckfpnbibokgblikpbchp?hl=en)
-- [Official GeoGuessr cheat guide](https://geoboost.win/geoguessr-cheat)
+- [Official GeoGuessr cheat guide](https://geoboost.win/)
 - [Testing methodology](https://geoboost.win/testing-methodology)

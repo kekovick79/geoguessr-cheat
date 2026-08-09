@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/geoguessr-boost-geoguessr/offeainbmjpcckfpnbibokgblikpbchp?hl=en"><img alt="Install GeoBoost from Chrome Web Store" src="https://img.shields.io/badge/Install-Chrome_Web_Store-9CEC18?style=for-the-badge&logo=googlechrome&logoColor=111111"></a>
-  <a href="https://geoboost.win/geoguessr-cheat"><img alt="Read the official GeoGuessr cheat guide" src="https://img.shields.io/badge/Official_Guide-geoboost.win-111111?style=for-the-badge"></a>
+  <a href="https://geoboost.win/"><img alt="Read the official GeoBoost GeoGuessr cheat guide" src="https://img.shields.io/badge/Official_Guide-geoboost.win-111111?style=for-the-badge"></a>
   <img alt="GeoBoost version 1.0.5" src="https://img.shields.io/badge/version-1.0.5-6B7280?style=for-the-badge">
   <img alt="Chrome Manifest V3" src="https://img.shields.io/badge/Chrome-Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
 </p>
@@ -19,7 +19,7 @@ The phrase “GeoGuessr cheat” is how many players search for this workflow. G
 
 - **Chrome Web Store:** [Install GeoGuessr Boost in English](https://chromewebstore.google.com/detail/geoguessr-boost-geoguessr/offeainbmjpcckfpnbibokgblikpbchp?hl=en)
 - **Official product page:** [GeoBoost for supported geography games](https://geoboost.win/)
-- **Primary guide:** [GeoGuessr cheat extension — features, workflow and limitations](https://geoboost.win/geoguessr-cheat)
+- **Official product guide:** [GeoGuessr cheat extension — features, workflow and limitations](https://geoboost.win/)
 
 No unpacked extension, script manager or API key is required for the published version.
 
