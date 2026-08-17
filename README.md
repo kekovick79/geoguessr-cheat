@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/geoguessr-boost-geoguessr/offeainbmjpcckfpnbibokgblikpbchp?hl=en"><img alt="Install GeoBoost from Chrome Web Store" src="https://img.shields.io/badge/Install-Chrome_Web_Store-9CEC18?style=for-the-badge&logo=googlechrome&logoColor=111111"></a>
-  <a href="https://geoboost.win/"><img alt="Read the official GeoBoost GeoGuessr cheat guide" src="https://img.shields.io/badge/Official_Guide-geoboost.win-111111?style=for-the-badge"></a>
+  <a href="https://geoboost.win/?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=geoboost_owned_content&amp;utm_content=readme_badge"><img alt="Read the official GeoBoost GeoGuessr cheat guide" src="https://img.shields.io/badge/Official_Guide-geoboost.win-111111?style=for-the-badge"></a>
   <img alt="GeoBoost version 1.0.5" src="https://img.shields.io/badge/version-1.0.5-6B7280?style=for-the-badge">
   <img alt="Chrome Manifest V3" src="https://img.shields.io/badge/Chrome-Manifest_V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
 </p>
@@ -18,8 +18,8 @@ The phrase “GeoGuessr cheat” is how many players search for this workflow. G
 ## Install GeoBoost
 
 - **Chrome Web Store:** [Install GeoGuessr Boost in English](https://chromewebstore.google.com/detail/geoguessr-boost-geoguessr/offeainbmjpcckfpnbibokgblikpbchp?hl=en)
-- **Official product page:** [GeoBoost for supported geography games](https://geoboost.win/)
-- **Official product guide:** [GeoGuessr cheat extension — features, workflow and limitations](https://geoboost.win/)
+- **Official product page:** [GeoBoost for supported geography games](https://geoboost.win/?utm_source=github&utm_medium=referral&utm_campaign=geoboost_owned_content&utm_content=readme_product_page)
+- **Official product guide:** [GeoGuessr cheat extension — features, workflow and limitations](https://geoboost.win/?utm_source=github&utm_medium=referral&utm_campaign=geoboost_owned_content&utm_content=readme_product_guide)
 
 No unpacked extension, script manager or API key is required for the published version.
 
@@ -46,7 +46,7 @@ GeoBoost currently supports selected round workflows on:
 - FreeGuessr
 - Geotastic
 
-Each game exposes different pages and map controls, so feature availability can vary by mode. See the [supported-games notes](docs/SUPPORTED-GAMES.md) and the public [testing methodology](https://geoboost.win/testing-methodology).
+Each game exposes different pages and map controls, so feature availability can vary by mode. See the [supported-games notes](docs/SUPPORTED-GAMES.md) and the public [testing methodology](https://geoboost.win/testing-methodology?utm_source=github&utm_medium=referral&utm_campaign=geoboost_owned_content&utm_content=readme_testing_methodology).
 
 ## How it works
 
@@ -80,7 +80,7 @@ This makes the extension useful for private reveals, party rounds, product testi
 
 GeoBoost uses Chrome Manifest V3 and requests access only to its supported game sites and the services required for the product workflow. The extension does not store third-party API keys. Screenshots are not sent for AI analysis.
 
-Read the complete [privacy and permissions summary](docs/PRIVACY-AND-PERMISSIONS.md) and the official [Privacy Policy](https://geoboost.win/privacy).
+Read the complete [privacy and permissions summary](docs/PRIVACY-AND-PERMISSIONS.md) and the official [Privacy Policy](https://geoboost.win/privacy?utm_source=github&utm_medium=referral&utm_campaign=geoboost_owned_content&utm_content=readme_privacy).
 
 ## Languages
 
@@ -121,8 +121,8 @@ No. Install the published extension from the Chrome Web Store and open a support
 
 GeoBoost is built and maintained by **GeoBoost Team**. Product-specific claims are checked against the current Chrome extension build on supported private or practice modes.
 
-- Website: [geoboost.win](https://geoboost.win/)
-- About: [About GeoBoost and its founder](https://geoboost.win/about)
+- Website: [geoboost.win](https://geoboost.win/?utm_source=github&utm_medium=referral&utm_campaign=geoboost_owned_content&utm_content=readme_footer)
+- About: [About GeoBoost](https://geoboost.win/about?utm_source=github&utm_medium=referral&utm_campaign=geoboost_owned_content&utm_content=readme_about)
 - Contact: [support@geoboost.win](mailto:support@geoboost.win)
 
 ---

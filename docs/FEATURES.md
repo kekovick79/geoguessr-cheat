@@ -28,10 +28,10 @@ The default hotkey is `G`. A different single key can be selected in extension s
 
 ## Free and Pro access
 
-The free path includes five starter guesses and then one free guess per day. Pro unlocks unlimited use, Smart Zoom and Range. Current pricing and access options are shown inside the extension and on the [GeoBoost pricing page](https://geoboost.win/pricing).
+The free path includes five starter guesses and then one free guess per day. Pro unlocks unlimited use, Smart Zoom and Range. Current pricing and access options are shown inside the extension and on the [GeoBoost pricing page](https://geoboost.win/pricing?utm_source=github&utm_medium=referral&utm_campaign=geoboost_owned_content&utm_content=features_doc).
 
 ## Related links
 
 - [Install GeoBoost from Chrome Web Store](https://chromewebstore.google.com/detail/geoguessr-boost-geoguessr/offeainbmjpcckfpnbibokgblikpbchp?hl=en)
-- [Official GeoGuessr cheat guide](https://geoboost.win/)
-- [Testing methodology](https://geoboost.win/testing-methodology)
+- [Official GeoGuessr cheat guide](https://geoboost.win/?utm_source=github&utm_medium=referral&utm_campaign=geoboost_owned_content&utm_content=features_doc)
+- [Testing methodology](https://geoboost.win/testing-methodology?utm_source=github&utm_medium=referral&utm_campaign=geoboost_owned_content&utm_content=features_doc)

@@ -22,4 +22,4 @@ A supported round is one where the current version of GeoBoost can detect the ac
 4. Check that map preview and placement controls behave correctly.
 5. Use helper features only when the rules of the round allow them.
 
-For the repeatable product test process, read the official [GeoBoost testing methodology](https://geoboost.win/testing-methodology).
+For the repeatable product test process, read the official [GeoBoost testing methodology](https://geoboost.win/testing-methodology?utm_source=github&utm_medium=referral&utm_campaign=geoboost_owned_content&utm_content=supported_games_doc).

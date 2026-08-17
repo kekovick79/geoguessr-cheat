@@ -20,6 +20,6 @@ Host access is limited to the supported game sites, `geoboost.win`, and the Open
 - A readable place name can depend on reverse-geocoding availability.
 - Billing, access restoration and support use GeoBoost's public service endpoints.
 
-For the complete legal description, retention rules and contact details, read the official [GeoBoost Privacy Policy](https://geoboost.win/privacy) and [Terms of Service](https://geoboost.win/terms).
+For the complete legal description, retention rules and contact details, read the official [GeoBoost Privacy Policy](https://geoboost.win/privacy?utm_source=github&utm_medium=referral&utm_campaign=geoboost_owned_content&utm_content=privacy_doc) and [Terms of Service](https://geoboost.win/terms?utm_source=github&utm_medium=referral&utm_campaign=geoboost_owned_content&utm_content=privacy_doc).
 
 Questions can be sent to [support@geoboost.win](mailto:support@geoboost.win).
